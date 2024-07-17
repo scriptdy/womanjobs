@@ -1,7 +1,13 @@
 ### ( 🇧🇷 ) VAGAS AFIRMATIVA PARA MULHERES (Cis e Trans)
 
-<details>  
- <summary> Sobre </summary>
+
+
+[**Desenvolvedora de Software**](https://www.amazon.jobs/pt/jobs/2683301/desenvolvedora-de-software-vaga-afirmativa-exclusiva-para-mulheres-intech) Vaga afirmativa exclusiva para mulheres - Nível Pleno, Intech - AMAZON
+
+[**Banco de Talentos: Profissionais de Tecnologia**](https://santander.wd3.myworkdayjobs.com/pt-BR/SantanderCareers/job/SAO-PAULO/Banco-de-Talentos--Profissionais-de-Tecnologia----Vaga-Afirmativa-para-Mulheres_Req1295338?Source=Source_LinkedIn) - Nivel Pleno (Várias áreas) - F1RST Santander 
+
+
+<hr>
 
 <details>  
  <summary> Como Contribuir: </summary>
@@ -20,8 +26,3 @@
     ```
     
 </details>
-</details>
-
-
-[**Desenvolvedora de Software**](https://www.amazon.jobs/pt/jobs/2683301/desenvolvedora-de-software-vaga-afirmativa-exclusiva-para-mulheres-intech) Vaga afirmativa exclusiva para mulheres - Nível Pleno, Intech - AMAZON
- 
