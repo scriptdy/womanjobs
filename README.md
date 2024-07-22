@@ -1,6 +1,9 @@
 ### ( 🇧🇷 ) VAGAS AFIRMATIVA PARA MULHERES (Cis e Trans)
 
 
+[#elafaztech BTG Pactual](https://carreiras.btgpactual.com/vagas/programas/%23elafaztech/5204187004) - Júnior/Pleno - BTG Pactual
+
+
 [Arquitetura de Software](https://ambevtech.gupy.io/jobs/4634107?jobBoardSource=linkedin)  - Assistente - Ambev Tech
 
 [Especialista em Segurança em Segurança da Informação](https://qibit.gupy.io/jobs/7465575)  - Assistente - QiBit
